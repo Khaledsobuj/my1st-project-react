@@ -1,0 +1,72 @@
+[
+    {
+        "id": 98765,
+        "cover": "https://i.ibb.co/YbpHzhQ/domenico-loia-h-GV2-Tf-Oh0ns-unsplash.jpg",
+        "title": "The Enigmatic Voyage",
+        "author": "Cassandra Blackwood",
+        "author_img": "author_image_1.jpg",
+        "post_date": "2024-03-16",
+        "reading_time": "12 minutes",
+        "Hashtags": [
+            "#Mystery",
+            "#Adventure",
+            "#Suspense"
+        ]
+    },
+    {
+        "id": 23456,
+        "cover": "https://i.ibb.co/JrZCrTV/fabian-irsara-67l-Quj-B14w-unsplash.jpg",
+        "title": "Echoes of Eternity",
+        "author": "Jonathan Silver",
+        "author_img": "author_image_2.jpg",
+        "post_date": "2024-03-15",
+        "reading_time": "8 minutes",
+        "Hashtags": [
+            "#Fantasy",
+            "#Magic",
+            "#Quest"
+        ]
+    },
+    {
+        "id": 54321,
+        "cover": "https://i.ibb.co/1qVh4dp/igor-miske-Px3i-BXV-4-TU-unsplash.jpg",
+        "title": "Beyond the Horizon",
+        "author": "Amelia Rivers",
+        "author_img": "author_image_3.jpg",
+        "post_date": "2024-03-14",
+        "reading_time": "10 minutes",
+        "Hashtags": [
+            "#SciFi",
+            "#Adventure",
+            "#Exploration"
+        ]
+    },
+    {
+        "id": 78901,
+        "cover": "https://i.ibb.co/Cz3B66D/ilya-pavlov-Oqtaf-YT5k-Tw-unsplash.jpg",
+        "title": "Shadows of the Past",
+        "author": "Marcus Nightingale",
+        "author_img": "author_image_4.jpg",
+        "post_date": "2024-03-13",
+        "reading_time": "15 minutes",
+        "Hashtags": [
+            "#Thriller",
+            "#Suspense",
+            "#Conspiracy"
+        ]
+    },
+    {
+        "id": 12345,
+        "cover": "https://i.ibb.co/GnrZcNc/kevin-bhagat-z-NRITe8-NPq-Y-unsplash.jpg",
+        "title": "Whispers in the Wind",
+        "author": "Isabella Thorn",
+        "author_img": "author_image_5.jpg",
+        "post_date": "2024-03-12",
+        "reading_time": "7 minutes",
+        "Hashtags": [
+            "#Romance",
+            "#Drama",
+            "#Heartbreak"
+        ]
+    }
+]
